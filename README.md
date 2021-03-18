@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+📫 How to reach me:
+[<img align="left" alt="amr.bin.an@gmail.com" width="22px" src="http://simpleicons.org/icons/gmail.svg" />][Email]
+[<img align="left" alt="linkedin.com/in/amran-944b64a5" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="twitter.com/mraann_" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
+[<img align="left" alt="instagram.com/amran.maruusy/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />][Instagram]
