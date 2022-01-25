@@ -48,5 +48,5 @@ Here are some ideas to get you started:
 
 [Email]: mailto:amr.bin.an@gmail.com
 [Linked]: https://linkedin.com/in/amran-944b64a5
-[Twitter]: https://twitter.com/richardcsuwandi
+[Twitter]: #
 [Instagram]: https://instagram.com/amran.maruusy
