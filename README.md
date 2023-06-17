@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 <a href="amran.maruusy@gmail.com">![badge:twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 -->
+<a href="mailto:amran.maruusy@gmail.com">![badge:linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="linkedin.com/in/amran-944b64a5">![badge:linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 [<img align="left" alt="amr.bin.an@gmail.com" width="22px" src="http://simpleicons.org/icons/gmail.svg" />][Email]
