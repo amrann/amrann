@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on of national bank in Indonesia
 - 🌱 I’m currently learning stuff of software architecture
 
-## My Skills
+## My Skills 🚀
 | Field        | Skills                                           |
 |:-------------|:-------------------------------------------------|
 | Front End  | `HTML` `CSS3` `Bootstrap` `Vue` `Vuetify`          |
