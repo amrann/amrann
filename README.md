@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 # Hi there 👋
-- 🔭 I’m currently working on one of national bank in Indonesia
+- 🔭 I’m currently working on one of national bank in Indonesia as programmer
 - 🌱 I’m currently learning stuff of software architecture
 
 ## My Skills 🚀
