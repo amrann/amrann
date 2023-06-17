@@ -35,8 +35,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white&color=777BB4)
 ![](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white&color=0095D5)
 ![](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white&color=3DDC84)
+
+<a href="amran.maruusy@gmail.com">![badge:twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 -->
 <a href="linkedin.com/in/amran-944b64a5">![badge:linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+[<img align="left" alt="amr.bin.an@gmail.com" width="22px" src="http://simpleicons.org/icons/gmail.svg" />][Email]
 
 
 
