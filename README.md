@@ -36,6 +36,9 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white&color=0095D5)
 ![](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white&color=3DDC84)
 -->
+<a href="linkedin.com/in/amran-944b64a5">![badge:linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
 
 # Hi there 👋
 - 🔭 I’m currently working on of national bank in Indonesia
