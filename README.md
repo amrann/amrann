@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ## My Skills
 | Field        | Skills                                           |
 |:-------------|:-------------------------------------------------|
-| Front End  | `HTML` `CSS3` `Bootstrap` `Vue`                    |
+| Front End  | `HTML` `CSS3` `Bootstrap` `Vue` `Vuetify`          |
 | Back End   | `PHP` `Laravel` `Java` `Python` `Nodejs`           |
 | Database   | `MySQL` `SQLServer` `PostgreSQL`                   |
 | Generalist | `Git` `Docker` `VSCode` `NPM` `Webpack` `REST API` |
